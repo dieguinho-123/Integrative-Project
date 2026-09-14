@@ -9,7 +9,7 @@
 
 ## 1. Use Case Model
 
-![Use Case Diagram](casos-uso.png)
+![Use Case Diagram](casos-uso.jpeg)
 
 ### Justification
 This Use Case Diagram outlines the functional scope, external actors, and key interactions within the system boundaries. It defines the separation between public browsing capabilities and authenticated operations, establishing a structured interaction framework prior to backend implementation.
@@ -27,7 +27,7 @@ This Use Case Diagram outlines the functional scope, external actors, and key in
 
 ## 2. Class Model
 
-![Class Diagram](clases.png)
+![Class Diagram](Clases.png)
 
 ### Justification
 This UML Class Diagram models the core architecture of the platform, organizing user roles, venue listings, and reviews. It establishes an object-oriented foundation that decouples responsibilities, optimizes code maintainability, and provides an unambiguous structural blueprint for both data persistence and business logic.
