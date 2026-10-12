@@ -43,6 +43,7 @@ This UML Class Diagram models the core architecture of the platform, organizing 
 ### System Design Screens (Prototype)
 The user interface and interaction flows were designed and wireframed in Figma, establishing the visual design system, layout coordinates, and navigation structure implemented in C#.
 
-* 🎨 **Figma Workspace Link:** [View Interactive Prototype](https://www.figma.com/design/bbtrsy2U8Fk6RHoO2r51KK/Sin-t%C3%ADtulo?node-id=1-3&t=aCmRTL3r0RAhuUFV-1)
+* **Figma Workspace Link:** [View Prototype](https://www.figma.com/design/bbtrsy2U8Fk6RHoO2r51KK/Sin-t%C3%ADtulo?node-id=1-3&t=aCmRTL3r0RAhuUFV-1)
 
 * ### Basic System Dynamics (Prototype)
+* **Video Link:** [Watch Video](https://drive.google.com/file/d/1mFw-RGYPJJyIjXPXTlkJfw_1-aN47yM8/view?usp=drive_link)
