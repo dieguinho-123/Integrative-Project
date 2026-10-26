@@ -45,5 +45,5 @@ The user interface and interaction flows were designed and wireframed in Figma, 
 
 * **Figma Workspace Link:** [View Prototype](https://www.figma.com/design/bbtrsy2U8Fk6RHoO2r51KK/Sin-t%C3%ADtulo?node-id=1-3&t=aCmRTL3r0RAhuUFV-1)
 
-* ### Basic System Dynamics (Prototype)
+### Basic System Dynamics (Prototype)
 * **Video Link:** [Watch Video](https://drive.google.com/file/d/1mFw-RGYPJJyIjXPXTlkJfw_1-aN47yM8/view?usp=drive_link)
