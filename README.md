@@ -40,22 +40,24 @@ This UML Class Diagram models the core architecture of the platform, organizing 
   * A `Diner` writes multiple `Review` records, each linked directly to a target `Establishment`.
 * **Encapsulation & Implementation Readiness:** Defines clear visibility modifiers (+, -), explicit data types, and method signatures, enabling direct translation into clean, modular backend code.
 
-### System Design Screens (Prototype)
+### 3. System Design Screens (Prototype)
 The user interface and interaction flows were designed and wireframed in Figma, establishing the visual design system, layout coordinates, and navigation structure implemented in C#.
 
 * **Figma Workspace Link:** [View Prototype](https://www.figma.com/design/bbtrsy2U8Fk6RHoO2r51KK/Sin-t%C3%ADtulo?node-id=1-3&t=aCmRTL3r0RAhuUFV-1)
+  
+---
 
-### Basic System Dynamics (Prototype)
+### 4. Basic System Dynamics (Prototype)
 * **Video Link:** [Watch Video](https://drive.google.com/file/d/1mFw-RGYPJJyIjXPXTlkJfw_1-aN47yM8/view?usp=drive_link)
 
 ---
 
-## 3. Errors and Exceptions
+## 5. Errors and Exceptions
 
 * **Document:** [Errores y Excepciones (PDF)](Errores_y_Excepciones.pdf)
 
 ---
 
-## 4. Basic CRUD (OOP Implementation)
+## 6. Basic CRUD (OOP Implementation)
 
 * **Video Link:** [Watch Video](https://drive.google.com/file/d/1MHjJf05rs5G13s1yPMfDmOoYtPz2cBCU/view?usp=sharing)
