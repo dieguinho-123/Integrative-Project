@@ -54,26 +54,8 @@ The user interface and interaction flows were designed and wireframed in Figma, 
 
 * **Document:** [Errores y Excepciones (PDF)](Errores_y_Excepciones.pdf)
 
-### Justification
-This research document analyzes how object-oriented languages such as Java and C# detect, classify, and control failures at runtime. It distinguishes fatal system errors from recoverable exceptions and reviews the mechanisms available to handle them, laying the groundwork for a fault-tolerant implementation of the platform.
-
-### Value to the Project
-* **Clear Conceptual Separation:** Differentiates *errors* (external, fatal, non-recoverable) from *exceptions* (internal, recoverable, checked or unchecked), defining which failures the application should attempt to handle.
-* **Error Classification:** Identifies compile-time, runtime, and logical errors, helping the team recognize where each kind of defect appears during development and testing.
-* **Exception Hierarchy:** Describes the `Throwable` / `Exception` base classes and the split between checked exceptions and unchecked `RuntimeException` subclasses.
-* **Implicit vs. Explicit Exceptions:** Contrasts exceptions raised automatically by the runtime (null references, division by zero) with those thrown manually via `throw` when a business rule is violated.
-* **Handling Mechanisms:** Covers `try` / `catch` / `finally` blocks, propagation up the call stack, and catching at the appropriate scope to log, inform the user, or recover gracefully, preventing abrupt application crashes.
-
 ---
 
 ## 4. Basic CRUD (OOP Implementation)
 
 * **Video Link:** [Watch Video](https://drive.google.com/file/d/1MHjJf05rs5G13s1yPMfDmOoYtPz2cBCU/view?usp=sharing)
-
-### Justification
-This evidence demonstrates a working implementation of the four fundamental data operations (Create, Read, Update, Delete) built on object-oriented principles. It translates the structures defined in the Class Model into functional code, validating the design before scaling it to the full platform.
-
-### Value to the Project
-* **Design-to-Code Traceability:** Turns the class blueprint into concrete objects with encapsulated attributes and methods, confirming that the model is implementable.
-* **Core Data Lifecycle:** Establishes the base operations needed to manage platform entities such as users, establishments, and reviews.
-* **Foundation for Robustness:** Provides the starting point where the error and exception handling mechanisms documented in Section 3 are applied to validate input and protect data operations.
