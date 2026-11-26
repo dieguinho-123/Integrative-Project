@@ -64,14 +64,15 @@ The user interface and interaction flows were designed and wireframed in Figma, 
 
 ---
 
-## 7. Project Documentation and Presentation
+## 7. User Manual and Installation Manual
+
+* **User Manual:** [LuGo User Manual (PDF)](LuGo%20User%20Manual.pdf)
+* **Installation Manual:** [LuGo Installation Manual (PDF)](LuGo%20Installation%20Manual.pdf)
+
+---
+
+## 8. Project Documentation and Presentation
 
 * **Document:** [LuGo Documentation (PDF)](LuGo%20Documentation%20POO.pdf)
 * **Presentation:** [LuGo Presentation (PPTX)](LuGo%20Presentation.pptx)
 
----
-
-## 8. User Manual and Installation Manual
-
-* **User Manual:** [LuGo User Manual (PDF)](LuGo%20User%20Manual.pdf)
-* **Installation Manual:** [LuGo Installation Manual (PDF)](LuGo%20Installation%20Manual.pdf)
