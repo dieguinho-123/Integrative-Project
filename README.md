@@ -55,6 +55,19 @@ The user interface and interaction flows were designed and wireframed in Figma, 
 ## 5. Errors and Exceptions
 
 * **Document:** [Errores y Excepciones (PDF)](Errores_y_Excepciones.pdf)
+* ---
+
+## 7. Project Documentation and Presentation
+
+* **Document:** [LuGo Documentation (PDF)](LuGo_Documentation.pdf)
+* **Presentation:** [LuGo Presentation (PPTX)](LuGo_Presentation.pptx)
+
+---
+
+## 8. User Manual and Installation Manual
+
+* **User Manual:** [LuGo User Manual (PDF)](LuGo_User_Manual.pdf)
+* **Installation Manual:** [LuGo Installation Manual (PDF)](LuGo_Installation_Manual.pdf)
 
 ---
 
